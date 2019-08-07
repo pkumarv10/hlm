@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import '../src/css/bootstrap.css';
+@import '../src/css/creditly.css';
+@import '../src/css/easy-responsive-tabs.css';
+@import '../src/css/flexslider.css';
+@import '../src/css/font-awesome.css';
+@import '../src/css/style.css';
